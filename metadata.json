@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Bazzar Digital",
+  "description": "Seu mercado local - A high-performance B2B & B2C marketplace focused on the African continent, featuring AI-driven product discovery, real-time negotiation chat, and location-based deals.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
